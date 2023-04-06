@@ -1,0 +1,26 @@
+head:hover {background-color: aqua;}
+h1 {
+    color: blueviolet;
+}
+h3:hover {
+    background-color: darkblue;
+}
+body {
+    background-color: burlywood;
+}
+title {
+    background-color: blanchedalmond;
+    background-position: center
+}
+footer {color: rgb(180, 42, 42);
+background-color: rgb(31, 31, 44);}
+h2 {
+    color: chartreuse;
+    font-size: larger;
+}
+button {
+    background-color:brown;
+    border-color: black;
+    border-width: 8px;
+}
+

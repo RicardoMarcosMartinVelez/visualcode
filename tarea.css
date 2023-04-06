@@ -1,0 +1,47 @@
+article:hover { background-color: gray;}
+iframe:hover {background-color:gray;}
+.Purina:hover {background-color: aquamarine;}
+div {margin: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+section:hover {background-color: gray;}
+p {text-size-adjust: left; word-wrap: break-word;}
+section{ margin: 0%; text-align: left;}
+h1 { text-align: center}
+/* Add a black background color to the top navigation */
+. {
+    background-color: #333333;
+    overflow: hidden;
+  }
+  
+  h1:hover {background-color: bisque;}
+  /* Style the links inside the navigation bar */
+  nav.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  nav:hover {background-color: black;}
+
+  h6 {color: black; font-size: 21px;}
+  
+  h4 {color: black; font-size: 21px;}
+
+  ul.tabla {margin: 0%; text-align: left; background-color: rgb(255, 252, 252);}
